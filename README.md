@@ -198,15 +198,10 @@ sudo apt-get install qflow
 
 Note: IP is yet under process and yet to release as a final view. 
 
-But incase if any difficulties with respect to IP Usage so far, contact the administrator or report as github Issue.
+Incase of any difficulties with respect to IP Usage so far, contact administrator or report as github Issue.
 
 ## Author
 Anusha R
-
-## Contributors
-* Anusha R
-* Kunal Ghosh
-* Philipp Guhring
 
 ## Acknowledgements
 * Kunalghosh Director VSD Corp.Pvt.ltd
