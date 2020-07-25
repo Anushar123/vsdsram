@@ -203,6 +203,16 @@ But incase if any difficulties with respect to IP Usage so far, contact the admi
 ## Author
 Anusha R
 
+## Contributors
+* Anusha R
+* Kunal Ghosh
+* Philipp Guhring
+
+## Acknowledgements
+* Kunalghosh Director VSD Corp.Pvt.ltd
+* Philipp Guhring Software Architect at LibreSilicon Association 
+* Aishik Das Technical designer Calnestor knowledge solutions private limited Ambuja Neotia.
+
 # Contact Information
 * Anusha.R Mtech (VLSI Design and Embedded Systems), Bangalore. anusha005r@gmail.com
 * Kunalghosh Director VSD Corp.Pvt.ltd Kunalghosh@gmail.com
