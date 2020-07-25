@@ -212,6 +212,7 @@ Anusha R
 * Kunalghosh Director VSD Corp.Pvt.ltd
 * Philipp Guhring Software Architect at LibreSilicon Association 
 * Aishik Das Technical designer Calnestor knowledge solutions private limited Ambuja Neotia.
+* Tim Edwards, Senior Vice President of Analog and Design at efabless corporation
 
 # Contact Information
 * Anusha.R Mtech (VLSI Design and Embedded Systems), Bangalore. anusha005r@gmail.com
