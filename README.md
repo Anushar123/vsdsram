@@ -17,7 +17,6 @@ To get insight of mem4kBytesOr32kbits design Specifications, check [this](/Docum
 ![](Circuit-Inv/Sram.PNG) 
 
 A 6T sram pairs up with two access transistors for read, write state and cross coupled inverter to hold/regenerate the state.
-
 During **write operation** i.e., to write Q=0 while initial Q=vdd or 1, when the voltage at node Q reaches to a threshold voltage wherein PMOS M5 gets ON and the voltage at node Qbar starts to rise and the regenerative action of the cross-coupled inverter will force the write Q = 0. 
 To write logic 0, Bitlline should be logic 0 and BLbar is complemented to 1. 
 **Wordline is high**.
