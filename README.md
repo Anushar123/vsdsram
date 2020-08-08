@@ -41,6 +41,12 @@ PR = ((W1/L1)/(W2/L2))=((W5/L5)/(W6/L6))=((0.9u/0.18u)/(0.36u/0.18u))=2.5
 
 ![](Waveforms/Ngspice/Spice/PullupRatio.PNG) 
 
+### Static Noise Margin (SNM) Analysis
+
+Static noise margin (SNM) is a functional metric to analyse the stability of SRAM cell. The graphical representation of SNM is through the largest square diagonal between the voltage transfer characteristics (VTC) of inverters. It determines the capability to retain the information that is stored. SNM measures the SRAM stability and it defines the maximum noise margin that a cell can store the data without losing the information.
+
+
+
 ## Upcoming Future Works
 
 The Circuit design of 6T SRAM alongwith Precharge, Sense amplifier is designed solely in opensouce tool and its characterstics is analyzed. As a post layout stage, the design's layout is drawn and spice netlist is extracted. As a part of upcoming work the next step is post layout simulation, verifying it with pre layout. The32kbit and PnR (Place and Route) flow and lastly GDS to be released.
