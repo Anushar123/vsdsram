@@ -45,7 +45,7 @@ PR = ((W1/L1)/(W2/L2))=((W5/L5)/(W6/L6))=((0.9u/0.18u)/(0.36u/0.18u))=2.5
 
 Static noise margin (SNM) is a functional metric to analyse the stability of SRAM cell. The graphical representation of SNM is through the largest square diagonal between the voltage transfer characteristics (VTC) of inverters. It determines the capability to retain the information that is stored. SNM measures the SRAM stability and it defines the maximum noise margin that a cell can store the data without losing the information.
 
-
+![](Waveforms/Ngspice/SNM-Butterfly.PNG) 
 
 ## Upcoming Future Works
 
