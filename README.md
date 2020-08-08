@@ -12,7 +12,7 @@ To get insight of mem4kBytesOr32kbits design Specifications, check [this](/Docum
 
 ![](Circuit-Inv/BlockSram.PNG)
 
-### Circuit Diagram of SRAM and Its Read Write Analysis
+### Read/Write Analysis of SRAM
 
 ![](Circuit-Inv/Sram.PNG) 
 
